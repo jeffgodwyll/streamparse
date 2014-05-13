@@ -69,7 +69,7 @@ You should get output similar to this:
 
 If ``lein`` isn't installed, [follow these directions][lein-install].
 
-[lein-install]: leiningen.org/#install
+[lein-install]: http://leiningen.org/#install
 
 Once that's all set, you can run:
 
